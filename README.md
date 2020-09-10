@@ -1,5 +1,3 @@
-# Flexible Paxos
-
 Flexible Paxos is the simple observation that it is not necessary to require all quorums in Paxos to intersect. It is sufficient to require that the quorum used by the leader election phase (phase-1) will overlap with the quorums used by previous replication phases (phase-2). Majority quourms are one such way to meet this requirement, but many more exist. Thus, Paxos is just a single point on a broad spectrum of possibilities for safely reaching distributed consensus.
 
 #### Papers
