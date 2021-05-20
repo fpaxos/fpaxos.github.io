@@ -24,6 +24,7 @@ To learn more about Flexible Paxos and how it is used to build more resilient di
 * [State-Machine Replication for Planet-Scale Systems](https://dl.acm.org/doi/abs/10.1145/3342195.3387543)
 * [Unbounded Pipelining in Dynamically Reconfigurable Paxos Clusters](http://tessanddave.com/paxos-reconf-latest.pdf)
 * [Revisiting the Paxos Foundations: A Look at Summer Internship Work at VMware Research](https://dl.acm.org/doi/pdf/10.1145/3139645.3139656)
+* [Odyssey: The Impact of Modern Hardware on Strongly-Consistent Replication Protocols](https://dl.acm.org/doi/10.1145/3447786.3456240)
 
 #### Articles & Blog Posts
 
